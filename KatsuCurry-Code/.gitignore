@@ -51,6 +51,9 @@ ExportedObj/
 *.opendb
 *.VC.db
 
+# Unity3D layout files
+*.wlt
+
 # Unity3D generated meta files
 *.pidb.meta
 *.pdb.meta
